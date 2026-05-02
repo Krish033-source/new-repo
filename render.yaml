@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: new-repo
-    env: static
-    buildCommand: 
-    startCommand: 
-    plan: free
