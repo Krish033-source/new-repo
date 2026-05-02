@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: app
-    env: static
-    buildCommand: 
-    startCommand: 
-    plan: free
