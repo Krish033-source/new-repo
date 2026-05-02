@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: static-site
-    env: static
-    buildCommand: echo 'static build'
-    startCommand: serve .
-    plan: free
